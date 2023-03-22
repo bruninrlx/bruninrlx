@@ -1,11 +1,15 @@
 ## Bruno Leandro
 
-hello everyone, my name is bruno leandro, i'm 23 years old.
-I live in são paulo brazil.
+hello everyone, my name is bruno leandro, i'm 23 years old. I live in são paulo brazil.
 
-I'm a fullstack developer and I'm proficient in the stacks listed below
+I hope some of the knowledge shared below may be of assistance to you. If you would like to discuss further about your needs, please feel free to reach out to me on LinkedIn or send me an email, and I will respond accordingly. 
 
-and I will also list other technologies that I have also studied and with proven knowledge in my github repositories.
+email: bruno.lendro2000@gmail.com
+linkedin: https://www.linkedin.com/in/bruno-leandro-365b82201/
+
+I'm a fullstack developer and I'm proficient in the stacks listed below.
+I will also list other technologies that I have also studied and with proven knowledge in my github repositories.
+
 
 <br />
 
