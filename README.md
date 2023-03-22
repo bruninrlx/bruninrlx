@@ -1,6 +1,7 @@
 ## Bruno Leandro
 
-hello everyone, my name is bruno leandro, i'm 23 years old and i live in são paulo brazil.
+hello everyone, my name is bruno leandro, i'm 23 years old.
+I live in são paulo brazil.
 
 I'm a fullstack developer and I'm proficient in the stacks listed below
 
