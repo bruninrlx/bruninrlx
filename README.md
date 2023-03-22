@@ -69,10 +69,14 @@ database
   <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white />
 </div>
 <br />
-devops and infra tools
+CI CD
 <br />
 <div>
   <img src=https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white />
+</div>
+<br />
+Devops and infra tools
+<div>
   <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white />
   <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />
 </div>
