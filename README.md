@@ -41,8 +41,8 @@ Back-end
 Back-end test tools
 <div>
   <img src=https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white />
-  <img src=https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white />
-  <img src=https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=whitee />
+  <img src=https://img.shields.io/badge/-mockito-green />
+  <img src=https://img.shields.io/badge/-Junit5-green />
 </div>
 
 <br />
