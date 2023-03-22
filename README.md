@@ -45,5 +45,18 @@ Back-end test tools
   <img src=https://img.shields.io/badge/-Junit5-green />
 </div>
 
+database
+<div>
+  <img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
+  <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white />
+  <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white />
+</div>
+
+devops and infra tools
+<div>
+  <img src=https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white />
+  <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white />
+  <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />
+</div>
 <br />
 </div>
