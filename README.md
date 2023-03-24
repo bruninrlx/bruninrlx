@@ -11,7 +11,6 @@ Linkedin: https://www.linkedin.com/in/bruno-leandro-365b82201/
 I'm a fullstack developer and I'm proficient in the stacks listed below.
 I will also list other technologies that I have also studied and with proven knowledge in my github repositories.
 
-
 <br />
 
 Languages
