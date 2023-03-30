@@ -2,7 +2,7 @@
 
 hello everyone, my name is bruno leandro, i'm 23 years old. I live in são paulo brazil.
 
-I hope some of the knowledge shared below may be of assistance to you. If you would like to discuss further about your needs, please feel free to reach out to me on LinkedIn or send me an email, and I will respond accordingly. 
+I hope some of the knowledge shared below may be of assistance to you. If you want to talk more about your need and want to hire my services, please feel free to reach out to me on LinkedIn or send me an email, and I will respond accordingly.
 
 Email: bruno.lendro2000@gmail.com
 <br />
